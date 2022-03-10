@@ -28,5 +28,10 @@
     "start": "nodemon -r dotenv/config -r babel-register server.js",
     "start:prod": "node -r dotenv/config -r ./build/server.js",
     "start:local": "nodemon -r dotenv/config -r ./build/server.js"
-  }
+  },
+  "keywords": [
+    "="
+  ],
+  "author": "",
+  "description": ""
 }
